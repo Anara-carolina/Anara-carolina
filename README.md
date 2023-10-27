@@ -44,4 +44,3 @@
   
 </div>
 
-![Snake animation](https://github.com/Anara-carolina/Anara-carolina/blob/output/github-contribution-grid-snake.svg)
