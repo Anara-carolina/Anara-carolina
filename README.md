@@ -10,17 +10,28 @@
 
 
 <div style="display: inline_block"><br>
-<imagem carregando="preguiçoso" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" largura="40" altura="40"/>
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" largura="40" altura="40"/>  
-<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" largura="40" altura="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://jestjs.io/pt-BR/">
+  <img src="https://skillicons.dev/icons?i=jest"/>
+  <a href="https://figma.com/">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <a href="https://firebase.google.com/">
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+   <a href="https://nodejs.org/en">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+
+
                     
 </div>
 
