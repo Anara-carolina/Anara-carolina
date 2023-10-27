@@ -10,10 +10,17 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Anara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Anara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Anara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<imagem carregando="preguiçoso" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" largura="40" altura="40"/>
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" largura="40" altura="40"/>  
+<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" largura="40" altura="40"/> 
                     
 </div>
 
